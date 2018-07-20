@@ -8,7 +8,7 @@
 輸出：<br/>
 若正確會顯示 `The ID is right!` 
 <br/>
-若錯誤會顯示 `Input error!` 
+若錯誤會顯示 `Input error!` `0`
 <br/>
 
 ![image](https://github.com/veryjimmy/Cpp-Programming_hw5/blob/master/ex1.png)
